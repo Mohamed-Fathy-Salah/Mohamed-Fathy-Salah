@@ -2,9 +2,10 @@
 
 ## I'm a Software Engineer and a Competitive programmer
 
-- 🔭 I'm currently learning machine learning 
-- 🌱 I’m currently studing computer engineering 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I use debian BTW.
+- 🥅 2022 Goals
+  - 🌱 Contribute more to Open Source projects.
+  - 🌱 Use & contribute to suckless tools.
 
 ### Connect with me:
 [<img align="left" alt="FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
