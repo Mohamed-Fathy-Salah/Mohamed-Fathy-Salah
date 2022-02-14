@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer and a Competitive programmer
 
-- 🔭 I use debian BTW.
+- 🔭 I use Arch BTW.
 - 🥅 2022 Goals
   - 🌱 Contribute more to Open Source projects.
   - 🌱 Use & contribute to suckless tools.
