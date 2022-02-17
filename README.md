@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer and a Competitive programmer
 
-- 🔭 I use Arch BTW.
+- 🔭 I use void BTW.
 - 🥅 2022 Goals
   - 🌱 Contribute more to Open Source projects.
   - 🌱 Use & contribute to suckless tools.
