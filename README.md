@@ -2,9 +2,6 @@
 
 ## I'm a Software Engineer and a Competitive programmer
 
-- 🥅 2022 Goals
-  - 🌱 Contribute more to Open Source projects.
-  - 🌱 Use & contribute to suckless tools.
 
 ### Connect with me:
 
